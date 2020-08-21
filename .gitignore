@@ -1,0 +1,20 @@
+# .gitignore
+*
+# keep track
+!.bashrc
+!.gitignore
+!.local/bin/scripts/*
+!.zshrc
+!.xprofile
+!.config/ncmpcpp/*
+!.config/mpd/*
+!.config/polybar/*
+!.config/openbox/*
+!.config/bspwm/*
+!.config/sxhkd/*
+!.config/termite/*
+!.bash_profile
+!.oh-my-zsh/*
+!.dwm/*
+!.xinitrc
+!.
