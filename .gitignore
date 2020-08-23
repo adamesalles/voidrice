@@ -1,5 +1,3 @@
-# .gitignore
-*
 # keep track
 !.bashrc
 !.gitignore
@@ -10,6 +8,7 @@
 !.config/mpd/*
 !.config/polybar/*
 !.config/openbox/*
+!.config/nvim/*
 !.config/bspwm/*
 !.config/sxhkd/*
 !.config/termite/*
@@ -17,4 +16,5 @@
 !.oh-my-zsh/*
 !.dwm/*
 !.xinitrc
-!.
+# .gitignore
+*
