@@ -6,7 +6,7 @@
 
 > Eduardo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lDLEsnXauwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Listen to [this song](https://www.youtube.com/watch?v=lDLEsnXauwU) if you want to feel the meme.
 
 ## It's just for not losing all the time I've invested on this.
 
