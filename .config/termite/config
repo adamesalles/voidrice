@@ -1,9 +1,14 @@
+[options]
+font = Iosevka Nerd Font 10
+# font = Noto Color Emoji 11
+
 [colors]
 
 # https://git.io/nord
 foreground=#d8dee9
 background=#2e3440
 cursor=#d8dee9
+
 
 color0=#3b4252
 color1=#bf616a
