@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Prints the current volume or 🔇 if muted.
+# Prints the current "" volume or 🔇 if muted.
 
 case $BUTTON in
 	1) setsid -f termite -e pulsemixer ;;
